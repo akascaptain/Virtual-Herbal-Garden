@@ -1,0 +1,26 @@
+Week 6: Testing & Feedback Iteration
+Objectives:
+
+Test the platform for usability and collect feedback.
+
+Optimize performance and user experience.
+
+Tasks Completed:
+
+Conducted usability testing with peers and educators.
+
+Fixed layout bugs and improved responsiveness.
+
+Optimized loading time for plant images and content.
+
+Challenges Faced:
+
+Mixed feedback on visual appeal vs. educational clarity.
+
+Browser compatibility issues with some interactive features.
+
+Next Steps:
+
+Plan final additions like quizzes or voice assistant for plant info.
+
+Prepare a detailed demo and documentation for final submission.
