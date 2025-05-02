@@ -2,7 +2,7 @@
 
 # 🌿 Virtual Herbal Garden - Log Book
 
-*TY Data Science | Semester Project - II | 2024-25*
+*TY Data Science | Semester Project - VI | 2024-25*
 *Smart India Hackathon (SIH) 2024 | Problem ID: SIH1070*
 *Problem Title:* Develop a Digital Platform for Medicinal Plant Knowledge Management and Dissemination
 *Organization:* Ministry of AYUSH | *Department:* National Medicinal Plants Board (NMPB)
@@ -13,12 +13,12 @@
 
 | Sr. No | Name of Student         |
 | :----- | :---------------------- |
-| 1      | Purva Sachin Sonaje     |
-| 2      | Swamini Dipak Patil     |
-| 3      | Vaishnavi Sunil Borase  |
-| 4      | Jagruti Prashant Desale |
+| 1      | Kishor Dilbhar Patil    |
+| 2      | Vivek Narendra Patil     |
+| 3      | Nandalal Vijaysing Rajput |
+| 4      | Akash Narendra Shinde |
 
-### 🧑‍🏫 Under the guidance of: *Dr. P.S. Sanjekar*
+### 🧑‍🏫 Under the guidance of: *Prof. J. S. Khatik*
 
 ---
 
