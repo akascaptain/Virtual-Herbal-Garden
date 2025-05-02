@@ -1,0 +1,26 @@
+Week 4: Backend Setup & Data Integration
+Objectives:
+
+Collect and structure data for medicinal plants.
+
+Set up backend services and database.
+
+Tasks Completed:
+
+Collected data for ~25 plants across AYUSH systems: scientific name, uses, region, precautions.
+
+Designed and implemented backend using Node.js and Express.
+
+Structured data in MongoDB; API endpoints created for fetching plant data.
+
+Challenges Faced:
+
+Ensuring consistent format and completeness of plant data.
+
+Learning curve in integrating backend APIs with React frontend.
+
+Next Steps:
+
+Add search and filter options (by plant type or AYUSH system).
+
+Integrate plant detail pages with real data from database.
