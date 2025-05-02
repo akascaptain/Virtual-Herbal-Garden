@@ -186,6 +186,4 @@ The *Virtual Herbal Garden* provides a user-friendly, accessible, and visually i
 
 \[5] Google Developers, “WebAR with AR.js Documentation,” [https://github.com/AR-js-org/AR.js](https://github.com/AR-js-org/AR.js)
 
----
 
-Let me know if you'd like this as a downloadable `.md` or `.docx` file.
