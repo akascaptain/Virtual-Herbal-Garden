@@ -1,0 +1,26 @@
+Week 2: UI/UX Design & Planning
+Objectives:
+
+Design a clean, educational, and user-friendly interface.
+
+Plan layout for virtual garden and plant details page.
+
+Tasks Completed:
+
+Created low-fidelity wireframes for homepage, garden layout, and plant info page.
+
+Outlined the sitemap and navigation structure.
+
+Finalized design inspiration using traditional Ayurvedic colors and nature themes.
+
+Challenges Faced:
+
+Ensuring that the UI is immersive but not overly complex.
+
+Integrating traditional elements with modern design principles.
+
+Next Steps:
+
+Start frontend development based on wireframes.
+
+Begin database structure planning for storing plant data.
