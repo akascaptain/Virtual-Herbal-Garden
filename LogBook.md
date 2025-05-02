@@ -177,9 +177,13 @@ The *Virtual Herbal Garden* provides a user-friendly, accessible, and visually i
 # 📚 References
 
 \[1] Ministry of AYUSH, “Medicinal Plants Database,” Government of India, Retrieved from [https://nmpb.nic.in](https://nmpb.nic.in)
+
 \[2] World Health Organization, “WHO Global Centre for Traditional Medicine,” [https://www.who.int](https://www.who.int)
+
 \[3] Patwardhan, B. et al., “Ayurveda and Integrative Medicine: Preserving Traditional Knowledge,” Elsevier, 2022.
+
 \[4] Sharma, P., “Digital Conservation of Ethnomedicinal Knowledge Systems,” Journal of Indian Ethnobotany, 2021.
+
 \[5] Google Developers, “WebAR with AR.js Documentation,” [https://github.com/AR-js-org/AR.js](https://github.com/AR-js-org/AR.js)
 
 ---
