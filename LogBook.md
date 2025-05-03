@@ -3,8 +3,8 @@
 # 🌿 Virtual Herbal Garden - Log Book
 
 *TY Data Science | Semester Project - VI | 2024-25*
-*Smart India Hackathon (SIH) 2024 |*
-*Problem Title:* Develop a Digital Platform for Medicinal Plant Knowledge Management and Dissemination
+*Smart India Hackathon (SIH) 2024 | Problem Statement Id: 1555*
+*Problem Title:* Create a Virtual Herbal Garden
 *Organization:* Ministry of AYUSH | *Department:* National Medicinal Plants Board (NMPB)
 
 ---
